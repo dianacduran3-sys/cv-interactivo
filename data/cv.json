@@ -34,110 +34,32 @@
   },
   "executive_summary": "Gran profesional dedicado de forma integral a su familia y su trabajo. Con vasta experiencia en el sector construcción, ingeniería y gestión empresarial, ha mantenido a lo largo de su vida un compromiso inquebrantable con la excelencia, la integridad y el bienestar de quienes lo rodean. Hombre de principios, de palabra y de acción, cuya trayectoria se define tanto por sus logros profesionales como por la familia que ha formado y el legado que ha dejado.",
   "timeline": [
-    {
-      "year": "1956",
-      "event": "Nacimiento - 24 de Julio"
-    },
-    {
-      "year": "1956-1961",
-      "event": "Duitama, Colegio San Bosco"
-    },
-    {
-      "year": "1964",
-      "event": "Ida a Sogamoso, Colegio Reyes Patria"
-    },
-    {
-      "year": "1967",
-      "event": "Ida a estudiar a Bogotá con Ligia"
-    },
-    {
-      "year": "1968-1970",
-      "event": "Vivienda en Paz de Río (Casa Torcoroma)"
-    },
-    {
-      "year": "1974",
-      "event": "Graduación de Bachiller"
-    },
-    {
-      "year": "1975",
-      "event": "Tarjeta Militar"
-    },
-    {
-      "year": "1977",
-      "event": "Llegada a Villa Luz"
-    },
-    {
-      "year": "1982-1983",
-      "event": "Programación de Mantenimiento de Equipos"
-    },
-    {
-      "year": "1984",
-      "event": "Matrimonio con Luisa Fernanda"
-    },
-    {
-      "year": "1984-1988",
-      "event": "Programación de Compras"
-    },
-    {
-      "year": "1986",
-      "event": "Nacimiento de Natalia"
-    },
-    {
-      "year": "1989-1990",
-      "event": "Jefe de Compras"
-    },
-    {
-      "year": "1990-1993",
-      "event": "Director de Suministros"
-    },
-    {
-      "year": "1992",
-      "event": "Nacimiento de Catalina"
-    },
-    {
-      "year": "1994-1997",
-      "event": "Director Regional Cemex Colombia"
-    },
-    {
-      "year": "1998",
-      "event": "Cementos Samper"
-    },
-    {
-      "year": "1999-2000",
-      "event": "Director Reingeniería de Compras y Almacenes"
-    },
-    {
-      "year": "2002-2003",
-      "event": "Gerente de Compras Cementos Andino Colombia"
-    },
-    {
-      "year": "2003-2007",
-      "event": "Gerente de Compras Cementos Andino Dominicano"
-    },
-    {
-      "year": "2003-2021",
-      "event": "Director Administrativo & Proyectos Múltiples"
-    },
-    {
-      "year": "2010",
-      "event": "Nacimiento de Daniela"
-    },
-    {
-      "year": "2021",
-      "event": "Proyecto Bavaro"
-    },
-    {
-      "year": "2023",
-      "event": "Construcción Nave Facu"
-    },
-    {
-      "year": "2025-2026",
-      "event": "Director de Mantenimiento Codelpa & Right Construction"
-    },
-    {
-      "year": "2026",
-      "event": "70 Años de Vida"
-    }
+    {"year": "1956", "event": "Nacimiento - 24 de Julio"},
+    {"year": "1956-1961", "event": "Duitama, Colegio San Bosco"},
+    {"year": "1964", "event": "Ida a Sogamoso, Colegio Reyes Patria"},
+    {"year": "1967", "event": "Ida a estudiar a Bogotá con Ligia"},
+    {"year": "1968-1970", "event": "Vivienda en Paz de Río (Casa Torcoroma)"},
+    {"year": "1974", "event": "Graduación de Bachiller"},
+    {"year": "1975", "event": "Tarjeta Militar"},
+    {"year": "1977", "event": "Llegada a Villa Luz"},
+    {"year": "1982-1983", "event": "Programación de Mantenimiento de Equipos"},
+    {"year": "1984", "event": "Matrimonio con Luisa Fernanda"},
+    {"year": "1984-1988", "event": "Programación de Compras"},
+    {"year": "1986", "event": "Nacimiento de Natalia"},
+    {"year": "1989-1990", "event": "Jefe de Compras"},
+    {"year": "1990-1993", "event": "Director de Suministros"},
+    {"year": "1992", "event": "Nacimiento de Catalina"},
+    {"year": "1994-1997", "event": "Director Regional Cemex Colombia"},
+    {"year": "1998", "event": "Cementos Samper"},
+    {"year": "1999-2000", "event": "Director Reingeniería de Compras y Almacenes"},
+    {"year": "2002-2003", "event": "Gerente de Compras Cementos Andino Colombia"},
+    {"year": "2003-2007", "event": "Gerente de Compras Cementos Andino Dominicano"},
+    {"year": "2003-2021", "event": "Director Administrativo & Proyectos Múltiples"},
+    {"year": "2010", "event": "Nacimiento de Daniela"},
+    {"year": "2021", "event": "Proyecto Bavaro"},
+    {"year": "2023", "event": "Construcción Nave Facu"},
+    {"year": "2025-2026", "event": "Director de Mantenimiento Codelpa & Right Construction"},
+    {"year": "2026", "event": "70 Años de Vida"}
   ],
   "family_life": [
     {
@@ -247,170 +169,45 @@
       "icon": "💼",
       "expand": true,
       "images": [
-        "img/laborales/Laboral 1.jpg",
-        "img/laborales/Laboral 2.jpg",
-        "img/laborales/Laboral 3.jpg",
-        "img/laborales/Laboral 4.jpg",
-        "img/laborales/Laboral 5.jpg"
+        "img/laborales/Laboral 1.jpeg",
+        "img/laborales/Laboral 2.jpeg",
+        "img/laborales/laboral 3.jpeg",
+        "img/laborales/Laboral 4.jpeg",
+        "img/laborales/Laboral 5.jpeg"
       ]
     },
-    {
-      "year": "1984-1988",
-      "title": "Programación de Compras",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "1989-1990",
-      "title": "Jefe de Compras",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "1990-1993",
-      "title": "Director de Suministros",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "1994-1997",
-      "title": "Director Regional",
-      "organization": "Cemex Colombia",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "1998",
-      "title": "Cementos Samper",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "1999-2000",
-      "title": "Director de Reingeniería de Compras y Almacenes",
-      "organization": "Ladrilera Santafé",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2002-2003",
-      "title": "Gerente de Compras",
-      "organization": "Cementos Andino Colombia",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2003-2007",
-      "title": "Gerente de Compras",
-      "organization": "Cementos Andino Dominicano",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2003-2021",
-      "title": "Gerente Administrativo - Ingeniería",
-      "organization": "Empresa Estrella",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2003-2021",
-      "title": "Gerencia",
-      "organization": "Concredom",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2003-2021",
-      "title": "Encargado Proyecto Isla Tortola",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2003-2021",
-      "title": "Director Administrativo",
-      "organization": "Cementos Panam",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2003-2021",
-      "title": "Encargado Proyecto Mina Friusa",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2021",
-      "title": "Proyecto Bavaro",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2023",
-      "title": "Construcción Nave Facu",
-      "type": "labor",
-      "icon": "💼"
-    },
-    {
-      "year": "2025-2026",
-      "title": "Director de Mantenimiento",
-      "organization": "Codelpa & Right Construction",
-      "type": "labor",
-      "icon": "💼"
-    }
+    {"year": "1984-1988", "title": "Programación de Compras", "type": "labor", "icon": "💼"},
+    {"year": "1989-1990", "title": "Jefe de Compras", "type": "labor", "icon": "💼"},
+    {"year": "1990-1993", "title": "Director de Suministros", "type": "labor", "icon": "💼"},
+    {"year": "1994-1997", "title": "Director Regional", "organization": "Cemex Colombia", "type": "labor", "icon": "💼"},
+    {"year": "1998", "title": "Cementos Samper", "type": "labor", "icon": "💼"},
+    {"year": "1999-2000", "title": "Director de Reingeniería de Compras y Almacenes", "organization": "Ladrilera Santafé", "type": "labor", "icon": "💼"},
+    {"year": "2002-2003", "title": "Gerente de Compras", "organization": "Cementos Andino Colombia", "type": "labor", "icon": "💼"},
+    {"year": "2003-2007", "title": "Gerente de Compras", "organization": "Cementos Andino Dominicano", "type": "labor", "icon": "💼"},
+    {"year": "2003-2021", "title": "Gerente Administrativo - Ingeniería", "organization": "Empresa Estrella", "type": "labor", "icon": "💼"},
+    {"year": "2003-2021", "title": "Gerencia", "organization": "Concredom", "type": "labor", "icon": "💼"},
+    {"year": "2003-2021", "title": "Encargado Proyecto Isla Tortola", "type": "labor", "icon": "💼"},
+    {"year": "2003-2021", "title": "Director Administrativo", "organization": "Cementos Panam", "type": "labor", "icon": "💼"},
+    {"year": "2003-2021", "title": "Encargado Proyecto Mina Friusa", "type": "labor", "icon": "💼"},
+    {"year": "2021", "title": "Proyecto Bavaro", "type": "labor", "icon": "💼"},
+    {"year": "2023", "title": "Construcción Nave Facu", "type": "labor", "icon": "💼"},
+    {"year": "2025-2026", "title": "Director de Mantenimiento", "organization": "Codelpa & Right Construction", "type": "labor", "icon": "💼"}
   ],
   "achievements": [
-    {
-      "title": "70 años de entrega a su trabajo y familia",
-      "year": "2026"
-    },
-    {
-      "title": "Director y pieza clave en todos los proyectos en los que ha estado",
-      "year": "2026"
-    },
-    {
-      "title": "Experto en construcción y mantenimiento de equipos",
-      "year": "2026"
-    },
-    {
-      "title": "Legado de excelencia transmitido a su familia",
-      "year": "2026"
-    }
+    {"title": "70 años de entrega a su trabajo y familia", "year": "2026"},
+    {"title": "Director y pieza clave en todos los proyectos en los que ha estado", "year": "2026"},
+    {"title": "Experto en construcción y mantenimiento de equipos", "year": "2026"},
+    {"title": "Legado de excelencia transmitido a su familia", "year": "2026"}
   ],
   "constructions": [
-    {
-      "name": "Su Familia",
-      "year": "1984-2026",
-      "description": "La construcción más importante de su vida: una familia unida, con hijas profesionales y una nieta que es su dicha."
-    },
-    {
-      "name": "Cementos Samper",
-      "year": "1998"
-    },
-    {
-      "name": "Cementos Andino Dominicano",
-      "year": "2002-2007"
-    },
-    {
-      "name": "Isla Tortola",
-      "year": "2003-2021"
-    },
-    {
-      "name": "Proyecto Mina Friusa",
-      "year": "2003-2021"
-    },
-    {
-      "name": "Proyecto Bavaro",
-      "year": "2021"
-    },
-    {
-      "name": "Construcción Nave Facu",
-      "year": "2023"
-    },
-    {
-      "name": "Diversos Proyectos de Construcción e Ingeniería",
-      "year": "1982-2026"
-    }
+    {"name": "Su Familia", "year": "1984-2026", "description": "La construcción más importante de su vida: una familia unida, con hijas profesionales y una nieta que es su dicha."},
+    {"name": "Cementos Samper", "year": "1998"},
+    {"name": "Cementos Andino Dominicano", "year": "2002-2007"},
+    {"name": "Isla Tortola", "year": "2003-2021"},
+    {"name": "Proyecto Mina Friusa", "year": "2003-2021"},
+    {"name": "Proyecto Bavaro", "year": "2021"},
+    {"name": "Construcción Nave Facu", "year": "2023"},
+    {"name": "Diversos Proyectos de Construcción e Ingeniería", "year": "1982-2026"}
   ],
   "recognitions": {
     "title": "Reconocimientos",
@@ -422,69 +219,60 @@
       "description": "Colección de momentos especiales con la familia y celebraciones",
       "expand": true,
       "images": [
-        "img/otras/otra 1.jpg",
-        "img/otras/otra 2.jpg",
-        "img/otras/otra 3.jpg",
-        "img/otras/otra 4.jpg",
-        "img/otras/otra 5.jpg",
-        "img/otras/otra 6.jpg",
-        "img/otras/otra 7.jpg",
-        "img/otras/otra 8.jpg",
-        "img/otras/otra 9.jpg",
-        "img/otras/otra 10.jpg",
-        "img/otras/otra 11.jpg",
-        "img/otras/otra 12.jpg",
-        "img/otras/otra 13.jpg",
-        "img/otras/otra 14.jpg",
-        "img/otras/otra 15.jpg",
-        "img/otras/otra 16.jpg",
-        "img/otras/otra 17.jpg",
-        "img/otras/otra 18.jpg",
-        "img/otras/otra 19.jpg",
-        "img/otras/otra 20.jpg",
-        "img/otras/otra 21.jpg",
-        "img/otras/otra 22.jpg",
-        "img/otras/otra 23.jpg",
-        "img/otras/otra 24.jpg",
-        "img/otras/otra 25.jpg",
-        "img/otras/otra 26.jpg",
-        "img/otras/otra 27.jpg",
-        "img/otras/otra 28.jpg",
-        "img/otras/otra 29.jpg",
-        "img/otras/otra 30.jpg"
+        "img/otras/otra 1.jpeg",
+        "img/otras/otra 2.jpeg",
+        "img/otras/otra 3.jpeg",
+        "img/otras/otra 4.jpeg",
+        "img/otras/otra 5.jpeg",
+        "img/otras/otra 6.jpeg",
+        "img/otras/otra 7.jpeg",
+        "img/otras/otra 8.jpeg",
+        "img/otras/otra 9.jpeg",
+        "img/otras/otra 10.jpeg",
+        "img/otras/otra 11.jpeg",
+        "img/otras/otra 12.jpeg",
+        "img/otras/otra 13.jpeg",
+        "img/otras/otra 14.jpeg",
+        "img/otras/otra 15.jpeg",
+        "img/otras/otra 16.jpeg",
+        "img/otras/otra 17.jpeg",
+        "img/otras/otra 18.jpeg",
+        "img/otras/otra 19.jpeg",
+        "img/otras/otra 20.jpeg",
+        "img/otras/otra 21.jpeg",
+        "img/otras/otra 22.jpeg",
+        "img/otras/otra 23.jpeg",
+        "img/otras/otra 24.jpeg",
+        "img/otras/otra 25.jpeg",
+        "img/otras/otra 26.jpeg",
+        "img/otras/otra 27.jpeg",
+        "img/otras/otra 28.jpeg",
+        "img/otras/otra 29.jpeg",
+        "img/otras/otra 30.jpeg"
       ]
     }
   ],
   "documents": {
     "title": "Documentos Oficiales",
     "files": [
-      {
-        "name": "Cédula de Identidad",
-        "path": "docs/cedula.pdf"
-      },
-      {
-        "name": "Diplomas y Certificados",
-        "path": "docs/diplomas.pdf"
-      },
-      {
-        "name": "Certificados Profesionales",
-        "path": "docs/certificados.pdf"
-      }
+      {"name": "Cédula de Identidad", "path": "docs/cedula.pdf"},
+      {"name": "Diplomas y Certificados", "path": "docs/diplomas.pdf"},
+      {"name": "Certificados Profesionales", "path": "docs/certificados.pdf"}
     ],
     "images": [
-      "img/documentos-oficiales/DOC 1.jpg",
-      "img/documentos-oficiales/DOC 2.jpg",
-      "img/documentos-oficiales/DOC 3.jpg",
-      "img/documentos-oficiales/DOC 4.jpg",
-      "img/documentos-oficiales/DOC 5.jpg",
-      "img/documentos-oficiales/DOC 6.jpg",
-      "img/documentos-oficiales/DOC 7.jpg",
-      "img/documentos-oficiales/DOC 8.jpg",
-      "img/documentos-oficiales/DOC 9.jpg",
-      "img/documentos-oficiales/DOC 10.jpg",
-      "img/documentos-oficiales/DOC 11.jpg",
-      "img/documentos-oficiales/DOC 12.jpg",
-      "img/documentos-oficiales/DOC 13.jpg"
+      "img/documentos-oficiales/DOC 1.jpeg",
+      "img/documentos-oficiales/DOC 2.jpeg",
+      "img/documentos-oficiales/DOC 3.jpeg",
+      "img/documentos-oficiales/DOC 4.jpeg",
+      "img/documentos-oficiales/DOC 5.jpeg",
+      "img/documentos-oficiales/DOC 6.jpeg",
+      "img/documentos-oficiales/DOC 7.jpeg",
+      "img/documentos-oficiales/DOC 8.jpeg",
+      "img/documentos-oficiales/DOC 9.jpeg",
+      "img/documentos-oficiales/DOC 10.jpeg",
+      "img/documentos-oficiales/DOC 11.jpeg",
+      "img/documentos-oficiales/DOC 12.jpeg",
+      "img/documentos-oficiales/DOC 13.jpeg"
     ]
   }
 }
