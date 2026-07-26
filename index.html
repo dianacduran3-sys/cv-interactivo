@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CV Interactivo - 70 Años de Excelencia">
+    <title>Carlos Fernando Durán - CV Interactivo</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preload" as="image" href="img/perfil/carlos.jpg">
+</head>
+<body>
+    <div class="container">
+        <!-- SIDEBAR FIJO -->
+        <aside class="sidebar">
+            <div class="sidebar-content">
+                <div class="profile-photo">
+                    <img id="profileImg" src="" alt="Foto de perfil" loading="lazy">
+                </div>
+                
+                <div class="profile-info">
+                    <h1 id="profileName"></h1>
+                    <p class="subtitle" id="profileSubtitle"></p>
+                </div>
+
+                <section class="info-section">
+                    <h3 class="gold-title">CONTACTO</h3>
+                    <div id="contactInfo"></div>
+                </section>
+
+                <section class="info-section">
+                    <h3 class="gold-title">DATOS PERSONALES</h3>
+                    <div id="personalData"></div>
+                </section>
+
+                <section class="info-section">
+                    <h3 class="gold-title">FAMILIA</h3>
+                    <div id="familyInfo"></div>
+                </section>
+
+                <section class="info-section">
+                    <h3 class="gold-title">HABILIDADES</h3>
+                    <div id="skillsInfo"></div>
+                </section>
+            </div>
+        </aside>
+
+        <!-- CONTENIDO PRINCIPAL -->
+        <main class="content">
+            <!-- HEADER PRINCIPAL -->
+            <header class="main-header">
+                <h2 id="mainTitle" class="main-title"></h2>
+                <p id="mainSubtitle" class="tagline"></p>
+                <div class="gold-divider"></div>
+            </header>
+
+            <!-- SECCIONES DE CONTENIDO -->
+            <div class="sections-wrapper">
+                <!-- RESUMEN EJECUTIVO -->
+                <section id="resumeSection" class="content-section">
+                    <div class="section-header">
+                        <h3>RESUMEN EJECUTIVO</h3>
+                    </div>
+                    <div id="executiveSummary" class="summary-content"></div>
+                </section>
+
+                <!-- LÍNEA DE TIEMPO -->
+                <section id="timelineSection" class="content-section">
+                    <div class="section-header">
+                        <h3>LÍNEA DE TIEMPO</h3>
+                    </div>
+                    <div id="timeline" class="timeline-list"></div>
+                </section>
+
+                <!-- VIDA FAMILIAR -->
+                <section id="familyLifeSection" class="content-section">
+                    <div class="section-header">
+                        <h3>VIDA FAMILIAR</h3>
+                    </div>
+                    <div id="familyLifeCards" class="cards-container"></div>
+                </section>
+
+                <!-- VIDA PROFESIONAL -->
+                <section id="professionalLifeSection" class="content-section">
+                    <div class="section-header">
+                        <h3>VIDA PROFESIONAL</h3>
+                    </div>
+                    <div id="professionalLifeCards" class="cards-container"></div>
+                </section>
+
+                <!-- LOGROS DESTACADOS -->
+                <section id="achievementsSection" class="content-section">
+                    <div class="section-header">
+                        <h3>LOGROS DESTACADOS</h3>
+                    </div>
+                    <div id="achievementsCards" class="cards-container"></div>
+                </section>
+
+                <!-- CONSTRUCCIONES IMPORTANTES -->
+                <section id="constructionsSection" class="content-section">
+                    <div class="section-header">
+                        <h3>CONSTRUCCIONES IMPORTANTES</h3>
+                    </div>
+                    <div id="constructionCards" class="constructions-grid"></div>
+                </section>
+
+                <!-- OTROS MOMENTOS -->
+                <section id="otherMomentsSection" class="content-section">
+                    <div class="section-header">
+                        <h3>OTROS MOMENTOS</h3>
+                    </div>
+                    <div id="otherMomentsCards" class="cards-container"></div>
+                </section>
+
+                <!-- RECONOCIMIENTOS -->
+                <section id="recognitionsSection" class="content-section">
+                    <div class="section-header">
+                        <h3>RECONOCIMIENTOS</h3>
+                    </div>
+                    <div id="recognitionsContent" class="recognitions-content"></div>
+                </section>
+
+                <!-- DOCUMENTOS OFICIALES -->
+                <section id="documentsSection" class="content-section">
+                    <div class="section-header">
+                        <h3>DOCUMENTOS OFICIALES</h3>
+                    </div>
+                    <div id="documentsCards" class="documents-grid"></div>
+                    <div id="documentImages" class="content-section" style="margin-top: 30px;">
+                        <div class="gallery-grid" id="documentGallery"></div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <!-- LIGHTBOX PARA GALERÍAS -->
+    <div id="lightbox" class="lightbox">
+        <div class="lightbox-content">
+            <button class="lightbox-close" aria-label="Cerrar">×</button>
+            <button class="lightbox-prev" aria-label="Anterior">‹</button>
+            <div class="lightbox-image-container">
+                <img id="lightboxImage" src="" alt="Imagen ampliada">
+                <div class="lightbox-zoom-controls">
+                    <button class="zoom-in">+</button>
+                    <button class="zoom-out">−</button>
+                </div>
+            </div>
+            <button class="lightbox-next" aria-label="Siguiente">›</button>
+            <div class="lightbox-counter">
+                <span id="currentIndex">1</span> de <span id="totalImages">1</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
